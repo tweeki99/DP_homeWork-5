@@ -1,0 +1,7 @@
+C:\Users\Shipa\source\repos\DpHw-5.Observer\DpHw-5.Observer\bin\Debug\DpHw-5.Observer.exe.config
+C:\Users\Shipa\source\repos\DpHw-5.Observer\DpHw-5.Observer\bin\Debug\DpHw-5.Observer.exe
+C:\Users\Shipa\source\repos\DpHw-5.Observer\DpHw-5.Observer\bin\Debug\DpHw-5.Observer.pdb
+C:\Users\Shipa\source\repos\DpHw-5.Observer\DpHw-5.Observer\obj\Debug\DpHw-5.Observer.csprojAssemblyReference.cache
+C:\Users\Shipa\source\repos\DpHw-5.Observer\DpHw-5.Observer\obj\Debug\DpHw-5.Observer.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\DpHw-5.Observer\DpHw-5.Observer\obj\Debug\DpHw-5.Observer.exe
+C:\Users\Shipa\source\repos\DpHw-5.Observer\DpHw-5.Observer\obj\Debug\DpHw-5.Observer.pdb
